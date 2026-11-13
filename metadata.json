@@ -1,0 +1,8 @@
+{
+  "name": "Andrew!",
+  "description": "Interactive video scrub portfolio transition into Andrew's dark portfolio landing page with HLS video backgrounds, Bento grid, Parallax explorations, and GSAP kinetic animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
